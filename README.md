@@ -37,7 +37,7 @@ PRODIGY_WD_02/
 - Enhanced my skills in building responsive and interactive web applications.
 - Improved debugging and problem-solving skills through practical implementation.
 
-  ## Screenshots
+## Screenshots
 
 ### Stopwatch Interface
 ![Stopwatch Interface](Screenshot/preview.png)
