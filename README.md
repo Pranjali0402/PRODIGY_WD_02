@@ -37,5 +37,13 @@ PRODIGY_WD_02/
 - Enhanced my skills in building responsive and interactive web applications.
 - Improved debugging and problem-solving skills through practical implementation.
 
+  ## Screenshots
+
+### Stopwatch Interface
+![Stopwatch Interface](Screenshot/preview.png)
+
+### Lap Time Recording
+![Lap Time Recording](Screenshot/stopwatch.png)
+
 ## Author
 **Pranjali Sonone**
